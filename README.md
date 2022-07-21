@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheCodingBrie
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on projects for begginer to help me grow
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Typescript
+- 💞️ I’m looking to collaborate on projects to help me grow
 - 📫 How to reach me ...
 
 <!---
